@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,ES:LA 1
+
+
 http://54.37.255.204:9977/live/eduardo1/eduardo1/28847.ts
 #EXTINF:-1,ES:LA 1 FHD
 http://54.37.255.204:9977/live/eduardo1/eduardo1/28846.ts
@@ -1489,6 +1490,6 @@ http://iptvtool.es:9977/live/693102/iptv/30011.ts
 #EXTINF:-1,ES:Taquilla 8
 http://iptvtool.es:9977/live/693102/iptv/30010.ts
 #EXTINF:-1,ES:Taquilla-9
-http://iptvtool.es:9977/live/693102/iptv/30004.ts
-#EXTINF:-1,ES:Taquilla-10
+
+
 http://iptvtool.es:9977/live/693102/iptv/30008.ts
